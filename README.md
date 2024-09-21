@@ -7,5 +7,3 @@ hello
 helllo
 
 helllo
-
-hello
