@@ -15,5 +15,3 @@ hello
 hello
 
 hello
-
-hello
