@@ -9,7 +9,3 @@ helllo
 helllo
 
 hello
-
-hello
-
-hello
